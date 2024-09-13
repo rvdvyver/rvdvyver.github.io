@@ -1,4 +1,4 @@
-baseURL = 'http://rvd5.com/'
+baseURL = 'https://rvd5.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'terminal'
