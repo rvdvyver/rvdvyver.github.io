@@ -2,8 +2,8 @@
 title = "Hello World (or so we say)"
 date = "2024-09-13T14:12:26+02:00"
 author = "rvd5"
-cover = ""
-tags = ["", ""]
+cover = "Hello World!"
+tags = ["introduction", "saysomething"]
 keywords = ["sayhello", ""]
 description = "a quick introduction"
 showFullContent = false
