@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on rvd5</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on rvd5</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Sep 2024 14:12:26 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/tags/introduction/</link>
+      <pubDate>Fri, 13 Sep 2024 14:12:26 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/introduction/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Saysomething</title>
+      <link>http://localhost:1313/tags/saysomething/</link>
+      <pubDate>Fri, 13 Sep 2024 14:12:26 +0200</pubDate>
+      
+      <guid>http://localhost:1313/tags/saysomething/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>
