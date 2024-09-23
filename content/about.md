@@ -1,7 +1,9 @@
 +++
-title = 'About'
-date = 2024-09-20T17:07:06+02:00
+title = "Hello World (or so we say)"
+date = "2024-09-13T14:12:26+02:00"
 author = "rvd5"
+tags = ["introduction", "saysomething"]
+keywords = ["sayhello"]
 description = "a quick introduction"
 showFullContent = true
 readingTime = true
