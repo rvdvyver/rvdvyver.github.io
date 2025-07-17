@@ -1,12 +1,21 @@
 +++
-title = "Hello World (or so we say)"
-date = "2024-09-13T14:12:26+02:00"
-author = "rvd5"
-tags = ["introduction", "saysomething"]
-keywords = ["sayhello"]
-description = "a quick introduction"
+title = "About"
+description = "Overview of this blog"
 showFullContent = true
 readingTime = true
 hideComments = false
 +++
-Hi there! I'm R. I'm originally from South Africa and now live in the Netherlands. I started getting into programming when I was 14, and since 2008, I've been working hard to improve as a Java developer. I love programming because it lets me come up with useful solutions and keeps me learning new things. I'm excited to meet others who share my interests and to work on projects that make a difference.
+
+This blog covers practical topics in software development, with a focus on programming, AI integration, and technical problem-solving.
+
+The content is based on over 15 years of experience in the field, including work in enterprise environments, AI adoption projects, and developer tooling. Posts are intended to document working solutions, explore challenges in implementation, and share lessons learned from day-to-day development work.
+
+Topics include:
+
+- Java and Python development
+- Building and integrating smart agents
+- Retrieval-Augmented Generation (RAG)
+- Data quality and system reliability
+- Developer workflows and productivity tools
+
+The goal is to keep the content focused, useful, and grounded in real-world scenarios.
